@@ -1,0 +1,12 @@
+.vac-bag{
+	background:#000;
+	clear:both;
+	color:#fff;
+}
+	.vac-bag > *{
+		float:left;
+		height:1px;
+		width:1px;
+		display:block;
+		margin:2px;
+	}
